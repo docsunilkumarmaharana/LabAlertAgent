@@ -1,0 +1,8 @@
+Patient_ID,Sample_ID,Analyte,Result,Unit,Department,Location
+P001,S001,Glucose,95,mg/dL,OPD,OPD
+P002,S002,Potassium,6.5,mmol/L,ICU,ICU
+P003,S003,Sodium,120,mmol/L,Ward,WARD
+P004,S004,Creatinine,1.1,mg/dL,OPD,OPD
+P005,S005,Glucose,35,mg/dL,Emergency,ED
+P006,S006,Urea,45,mg/dL,Ward,WARD
+P007,S007,Total Bilirubin,18,mg/dL,ICU,ICU
